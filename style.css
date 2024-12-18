@@ -461,7 +461,7 @@ header.sticky{
     .header-icons{
        display: inline-flex;
     }
-}
+    
     .navlist{
        position: absolute;
        top: 100%;
@@ -483,6 +483,7 @@ header.sticky{
     .navlist.open{
        left: 0;
     }
+}
 
 
 
